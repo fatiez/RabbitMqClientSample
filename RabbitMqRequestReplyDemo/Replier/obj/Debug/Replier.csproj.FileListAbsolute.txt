@@ -1,0 +1,12 @@
+C:\Users\WIN10P\source\repos\Replier\bin\Debug\Replier.exe.config
+C:\Users\WIN10P\source\repos\Replier\bin\Debug\Replier.exe
+C:\Users\WIN10P\source\repos\Replier\bin\Debug\Replier.pdb
+C:\Users\WIN10P\source\repos\Replier\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\WIN10P\source\repos\Replier\bin\Debug\RabbitMQ.Client.dll
+C:\Users\WIN10P\source\repos\Replier\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\WIN10P\source\repos\Replier\bin\Debug\RabbitMQ.Client.xml
+C:\Users\WIN10P\source\repos\Replier\obj\Debug\Replier.csprojAssemblyReference.cache
+C:\Users\WIN10P\source\repos\Replier\obj\Debug\Replier.csproj.CoreCompileInputs.cache
+C:\Users\WIN10P\source\repos\Replier\obj\Debug\Replier.csproj.CopyComplete
+C:\Users\WIN10P\source\repos\Replier\obj\Debug\Replier.exe
+C:\Users\WIN10P\source\repos\Replier\obj\Debug\Replier.pdb

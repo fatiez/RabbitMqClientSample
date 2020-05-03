@@ -1,0 +1,6 @@
+C:\Users\Fatih Erez\Documents\Visual Studio 2019\Repos\RabbitMqRequestResponseDemo\Demo.Common\bin\Debug\Demo.Common.dll
+C:\Users\Fatih Erez\Documents\Visual Studio 2019\Repos\RabbitMqRequestResponseDemo\Demo.Common\bin\Debug\Demo.Common.pdb
+C:\Users\Fatih Erez\Documents\Visual Studio 2019\Repos\RabbitMqRequestResponseDemo\Demo.Common\obj\Debug\Demo.Common.csprojAssemblyReference.cache
+C:\Users\Fatih Erez\Documents\Visual Studio 2019\Repos\RabbitMqRequestResponseDemo\Demo.Common\obj\Debug\Demo.Common.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Erez\Documents\Visual Studio 2019\Repos\RabbitMqRequestResponseDemo\Demo.Common\obj\Debug\Demo.Common.dll
+C:\Users\Fatih Erez\Documents\Visual Studio 2019\Repos\RabbitMqRequestResponseDemo\Demo.Common\obj\Debug\Demo.Common.pdb

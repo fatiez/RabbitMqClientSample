@@ -1,0 +1,12 @@
+C:\Users\Fatih Erez\Downloads\WorkQueues\bin\Debug\WorkerDemo.exe.config
+C:\Users\Fatih Erez\Downloads\WorkQueues\bin\Debug\WorkerDemo.exe
+C:\Users\Fatih Erez\Downloads\WorkQueues\bin\Debug\WorkerDemo.pdb
+C:\Users\Fatih Erez\Downloads\WorkQueues\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Fatih Erez\Downloads\WorkQueues\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Fatih Erez\Downloads\WorkQueues\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Fatih Erez\Downloads\WorkQueues\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Fatih Erez\Downloads\WorkQueues\obj\Debug\WorkerDemo.csprojAssemblyReference.cache
+C:\Users\Fatih Erez\Downloads\WorkQueues\obj\Debug\WorkerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Erez\Downloads\WorkQueues\obj\Debug\WorkerDemo.csproj.CopyComplete
+C:\Users\Fatih Erez\Downloads\WorkQueues\obj\Debug\WorkerDemo.exe
+C:\Users\Fatih Erez\Downloads\WorkQueues\obj\Debug\WorkerDemo.pdb
